@@ -1,0 +1,2 @@
+# PersianWordle
+Readme
